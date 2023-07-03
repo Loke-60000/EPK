@@ -4,7 +4,7 @@
 
 Subject: Amadeus URL Update
 
-Dear Future Gadget Lab Members,
+Dear Lab Members,
 
 I hope this message finds you well. I am writing to inform you of a critical update regarding the Amadeus system. Effective immediately, the URL for accessing Amadeus has changed.
 
@@ -19,7 +19,7 @@ Thank you for your attention to this matter. Let us continue pushing the boundar
 El Psy Kongroo~
 
 Best regards,
-[Your Name]
-Lab Member [Your Lab Member Number]
+Lokman
+Lab Member 001
 
 /////////////////////////////////////////////////////////////////
