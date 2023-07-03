@@ -1,5 +1,7 @@
 # VIKTORCHONDRIA.COM
 /////////////////////////////////////////////////////////////////
+
+
 Subject: Amadeus URL Update
 
 Dear Future Gadget Lab Members,
@@ -19,4 +21,5 @@ El Psy Kongroo~
 Best regards,
 [Your Name]
 Lab Member [Your Lab Member Number]
+
 /////////////////////////////////////////////////////////////////
