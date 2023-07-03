@@ -1,1 +1,3 @@
-# amadeus.lokman.fr2viktorchondria.com
+# The domain changed
+
+This is the new url https://viktorchondria.com/
