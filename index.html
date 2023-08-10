@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viktor Chondria</title>
+    <style>
+        *{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        html{
+            margin: 0;
+            padding: 0;
+            overflow: hidden !important;
+            background-color: #ed6c51;
+        }
+
+        .Phone{
+            height: 50vh;
+            width: 25%;
+            background-color: white;
+        }
+
+        .Containter{
+            height: 100vh;
+            width: 100vw;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .mailReceived{
+            background-color: #0156a5;
+            color: white;
+            text-align: justify;
+        }
+
+        .mailIcon{
+            color: #0156a5;
+            background-color: white;
+            border-radius: 10px;
+            margin: 3px;
+        }
+
+        .clockIcon{
+            color: white;
+        }
+
+        .redBox{
+            background-color: #f2512b;
+            color: white;
+            border-bottom: solid 1px white;
+            text-align: center;
+            width: 25px;
+            height: 25px;
+        }
+
+        table{
+            border: 10px solid #71625b ;
+        }
+
+        table {
+            border-spacing: 0;
+            border-collapse: collapse;
+        }
+
+        .textMail {
+            max-height: 50vh;
+            overflow: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="Containter">
+        <table class="Phone">
+            <tr>
+                <th colspan="2" class="mailReceived"><span class="mailIcon">✉</span>Receive Mail</th>
+            </tr>
+            <tr>
+                <td class="redBox"><spanb class="clockIcon">🕘</span></td>
+                <td> 7/25/ 12:08</td> 
+            </tr>
+            <tr>
+                <td class="redBox">frm</td>
+                <td>lokman@viktorchondria.com</td>
+            </tr>
+            <tr>
+                <td class="redBox">sub</td>
+                <td>Domain change</td>
+            </tr>
+            <tr>
+                <th colspan="2">
+                    <hr>
+                    <p class="textMail">
+                        <p>Dear Lab Members,</p>
+                        <p>I hope this message finds you well. I am writing to inform you of a critical update regarding the Amadeus system. Effective immediately, the URL for accessing Amadeus has changed.</p>
+                        <p>Please take note of the new URL: <a href="https://viktorchondria.com/">https://viktorchondria.com/</a></p>
+                        <p>If you have any questions or encounter any issues during this transition, do not hesitate to reach out to me or any other lab member for assistance.</p>
+                        <p>El Psy Kongroo~</p>
+                        <p>Lokman</p>
+                    </p>
+                </th>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
